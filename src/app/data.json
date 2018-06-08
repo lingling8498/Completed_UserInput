@@ -1,0 +1,25 @@
+{
+    "screenshots": [
+        {
+            "img": "assets/images/space1.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,...",
+            "like": "0"
+        },
+        {
+            "img": "assets/images/space2.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,...",
+            "like": "0"
+        },
+        {
+            "img": "assets/images/space3.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,...",
+            "like": "0"
+        },
+        {
+            "img": "assets/images/space1.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,...",
+            "like": "0"
+        }
+
+    ]
+}
